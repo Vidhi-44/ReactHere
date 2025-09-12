@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.logo{
+    width: 90px;
+    height: 90px;
+}
+
+.cart-icon{
+    width: 15px;
+    height: 15px;
+}
+.nav-items{
+    padding: 20px;
+}
+
+.nav-items > ul{
+ display: flex;
+ list-style-type: none;
+ font-size: 20px;
+}
+
+.nav-items > ul > li{
+padding-right: 30px;
+}
+
+.res-card{
+    height: 300px;
+    width: 200px;
+     padding: 5px;
+     cursor: pointer;
+     margin: 5px;
+}
+
+.res-card:hover{
+    border: 1px solid black;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search-bar{
+    padding: 10px;
+}
+
+.res-img{
+    width:100%;   
+}
