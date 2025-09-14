@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client"
 import "./index.css"
+import resList from "./src/Data.json";
+
 /**
  * Header
  * -Logo
@@ -34,45 +36,37 @@ const Header = () => {
            <li>
              Cart
             <img  className="cart-icon" src="https://i.pinimg.com/736x/51/5f/c5/515fc584baa97d0aae930bc6161a864f.jpg"/>
-            
           </li>
         </ul>
-
       </div>
     </div>
   );
 };
 
-const ReastaurantCard = (props)=>{
+const RestaurantCard = ({ name, cuisines, avgRating, sla, cloudinaryImageId }) => {
   return (
-    <div className="res-card" style={{backgroundColor:"#f0f0f0"}}>
+    <div className="res-card" style={{ backgroundColor: "#f0f0f0" }}>
       <img
-      className="res-img"
-      alt="image"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A396fokcR7Sh__1JeA9DELoijf1rYUAQnQ&s"/>
-      <h3>{props.resName}</h3>
-      <h4>{props.cusisine}</h4>
-      <h4>4.5 stars</h4>
-      <h4>40 mins</h4>
-
+        className="res-img"
+        alt={name}
+        src={`https://media-assets.swiggy.com/swiggy/image/upload/${cloudinaryImageId}`}
+      />
+      <h3>{name}</h3>
+      <h4>{cuisines.join(", ")}</h4>
+      <h4>{avgRating} ⭐</h4>
+      <h4>{sla.slaString}</h4>
     </div>
-  )
-}
+  );
+};
 
 const Body = ()=>{
   return(
     <div className="body">
     <div className="search-bar">Search</div>
     <div className="res-container">
-     
-      <ReastaurantCard
-      resName = "Tinku's Cafe"
-      cusisine = "Nort Indian, South Indian, Russian"
-      /> 
-        <ReastaurantCard
-      resName = "KFC"
-      cusisine = "Burger, Non-veg"
-      /> 
+     {resList.map((restaurant)=>(
+      <RestaurantCard key={restaurant.info.id} {...restaurant.info}/>
+     ))}
     </div>
     </div>
     
@@ -81,6 +75,7 @@ const Body = ()=>{
 }
 
 const AppLayout = () => {
+  
   return <div className="app">
     <Header/>
     <Body/>

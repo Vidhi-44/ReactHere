@@ -1,0 +1,1748 @@
+[
+{
+"info": {
+"id": "447833",
+"name": "Pizza Hut",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/1/f7de9193-e9ac-44c6-a201-83e6c2dc04ed_447833.JPG",
+"locality": "Treasure Island Mall",
+"areaName": "South Tukoganj",
+"costForTwo": "₹350 for two",
+"cuisines": [
+"Pizzas"
+],
+"avgRating": 4.2,
+"parentId": "721",
+"avgRatingString": "4.2",
+"totalRatingsString": "1.8K+",
+"sla": {
+"deliveryTime": 26,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Pizza.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Pizza.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "66% OFF",
+"subHeader": "UPTO ₹126",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/pizza-hut-treasure-island-mall-south-tukoganj-rest447833",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "728301",
+"name": "Burger King",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/e00f8b74-081d-4d5a-b085-de4d213b620d_728301.jpg",
+"locality": "New Palasia",
+"areaName": "Indore",
+"costForTwo": "₹350 for two",
+"cuisines": [
+"Burgers",
+"American"
+],
+"avgRating": 4.3,
+"parentId": "166",
+"avgRatingString": "4.3",
+"totalRatingsString": "9.0K+",
+"sla": {
+"deliveryTime": 16,
+"lastMileTravel": 2.2,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "2.2 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 05:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Burger.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Burger.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹166 OFF",
+"subHeader": "ABOVE ₹999",
+"discountTag": "FLAT DEAL",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/burger-king-new-palasia-indore-rest728301",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "303103",
+"name": "KFC",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/138369e7-c075-4482-a985-d32d0716dcfa_303103.JPG",
+"locality": "RNT Marg",
+"areaName": "South Tukoganj",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Burgers",
+"Fast Food",
+"Rolls & Wraps"
+],
+"avgRating": 4.4,
+"parentId": "547",
+"avgRatingString": "4.4",
+"totalRatingsString": "6.1K+",
+"sla": {
+"deliveryTime": 18,
+"lastMileTravel": 1.4,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "1.4 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹166 OFF",
+"subHeader": "ABOVE ₹699",
+"discountTag": "FLAT DEAL",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "1.7K+"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/kfc-rnt-marg-south-tukoganj-rest303103",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "84070",
+"name": "Gurukripa Restaurant - Sarwate",
+"cloudinaryImageId": "g5txnz35wlrgbskk3r8y",
+"locality": "Sarwate",
+"areaName": "South Tukoganj",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"North Indian",
+"Thalis",
+"Indian",
+"Fast Food",
+"Chinese",
+"Beverages",
+"Desserts",
+"Jain",
+"Punjabi"
+],
+"avgRating": 4.4,
+"veg": true,
+"parentId": "92204",
+"avgRatingString": "4.4",
+"totalRatingsString": "129K+",
+"sla": {
+"deliveryTime": 15,
+"lastMileTravel": 0.3,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "0.3 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:59:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/rx_5_10_min.png",
+"description": "bolt!"
+},
+{
+"imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/rx_5_10_min.png"
+}
+},
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹79"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/gurukripa-restaurant-sarwate-sarwate-south-tukoganj-rest84070",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "762427",
+"name": "Goila Butter Chicken",
+"cloudinaryImageId": "2acf0681a049dea7dac7271cf7ccc560",
+"locality": "Vijay Nagar",
+"areaName": "Vijay Nagar",
+"costForTwo": "₹600 for two",
+"cuisines": [
+"North Indian",
+"Biryani",
+"Kebabs",
+"Desserts"
+],
+"avgRating": 4.3,
+"parentId": "322587",
+"avgRatingString": "4.3",
+"totalRatingsString": "1.8K+",
+"sla": {
+"deliveryTime": 36,
+"lastMileTravel": 5.6,
+"serviceability": "SERVICEABLE",
+"slaString": "35-40 mins",
+"lastMileTravelString": "5.6 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "66% OFF",
+"subHeader": "UPTO ₹126",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/goila-butter-chicken-vijay-nagar-rest762427",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "639496",
+"name": "Dum Safar Biryani",
+"cloudinaryImageId": "1154cffac2453eb0bf7fdda7e5ea1659",
+"locality": "MG Road",
+"areaName": "TI MALL",
+"costForTwo": "₹500 for two",
+"cuisines": [
+"Biryani",
+"Kebabs",
+"North Indian",
+"Barbecue"
+],
+"avgRating": 4.4,
+"parentId": "351013",
+"avgRatingString": "4.4",
+"totalRatingsString": "813",
+"sla": {
+"deliveryTime": 20,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "66% OFF",
+"subHeader": "UPTO ₹126",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/dum-safar-biryani-mg-road-ti-mall-rest639496",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "359782",
+"name": "Grameen Kulfi",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/0bffe454-890c-4c2d-9029-95237cb7651e_359782.jpg",
+"locality": "SHRIKRISNA CHAMBER",
+"areaName": "DHENU MARKET",
+"costForTwo": "₹120 for two",
+"cuisines": [
+"Ice Cream",
+"Desserts"
+],
+"avgRating": 4.8,
+"veg": true,
+"parentId": "12175",
+"avgRatingString": "4.8",
+"totalRatingsString": "673",
+"sla": {
+"deliveryTime": 18,
+"lastMileTravel": 1.3,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "1.3 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+},
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+},
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "66% OFF",
+"subHeader": "UPTO ₹126",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/grameen-kulfi-shrikrisna-chamber-dhenu-market-rest359782",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "64823",
+"name": "Nafees Restaurant",
+"cloudinaryImageId": "x7zvrb5mbg92skzncwnu",
+"locality": "Old Palasia",
+"areaName": "Old Palasia",
+"costForTwo": "₹350 for two",
+"cuisines": [
+"Mughlai",
+"Biryani",
+"Chinese",
+"Snacks",
+"Desserts",
+"Beverages"
+],
+"avgRating": 4.4,
+"parentId": "10713",
+"avgRatingString": "4.4",
+"totalRatingsString": "64K+",
+"sla": {
+"deliveryTime": 36,
+"lastMileTravel": 3.5,
+"serviceability": "SERVICEABLE",
+"slaString": "35-40 mins",
+"lastMileTravelString": "3.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Biryani.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Biryani.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹69"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "10K+"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/nafees-restaurant-old-palasia-rest64823",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "625685",
+"name": "Wow! Chicken By Wow! Momo",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/28/8d9a2eca-ca5a-461a-9e96-d19510818416_625685.JPG",
+"locality": "Treasure Island Mall",
+"areaName": "Mg Road",
+"costForTwo": "₹300 for two",
+"cuisines": [
+"Burger",
+"American",
+"fastfood"
+],
+"avgRating": 4.1,
+"parentId": "268366",
+"avgRatingString": "4.1",
+"totalRatingsString": "1.1K+",
+"sla": {
+"deliveryTime": 31,
+"lastMileTravel": 1.8,
+"serviceability": "SERVICEABLE",
+"slaString": "30-35 mins",
+"lastMileTravelString": "1.8 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:30:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹166 OFF",
+"subHeader": "ABOVE ₹449",
+"discountTag": "FLAT DEAL",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/wow-chicken-by-wow-momo-treasure-island-mall-mg-road-rest625685",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "64532",
+"name": "Sagar Gaire",
+"cloudinaryImageId": "irki7zudjxrbbmtcvpgy",
+"locality": "New Palasia",
+"areaName": "New Palasia",
+"costForTwo": "₹300 for two",
+"cuisines": [
+"North Indian",
+"Chinese",
+"Italian",
+"Thalis",
+"Punjabi"
+],
+"avgRating": 4.4,
+"veg": true,
+"parentId": "7049",
+"avgRatingString": "4.4",
+"totalRatingsString": "64K+",
+"sla": {
+"deliveryTime": 32,
+"lastMileTravel": 2.5,
+"serviceability": "SERVICEABLE",
+"slaString": "30-40 mins",
+"lastMileTravelString": "2.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 01:55:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹100 OFF",
+"subHeader": "ABOVE ₹199",
+"discountTag": "FLAT DEAL"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "3.2K+"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/sagar-gaire-new-palasia-rest64532",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "354078",
+"name": "Baskin Robbins - Ice Cream Desserts",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/4/24/365dc853-8c2b-4278-8fa1-d02fd1cb04b1_354078.JPG",
+"locality": "The One RNT Marg",
+"areaName": "South Tukoganj",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"Desserts",
+"Ice Cream"
+],
+"avgRating": 4.5,
+"veg": true,
+"parentId": "5588",
+"avgRatingString": "4.5",
+"totalRatingsString": "229",
+"sla": {
+"deliveryTime": 16,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+},
+{
+"imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+},
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹66 OFF",
+"subHeader": "ABOVE ₹499",
+"discountTag": "FLAT DEAL",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/baskin-robbins-ice-cream-desserts-the-one-rnt-marg-south-tukoganj-rest354078",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "224034",
+"name": "Maa Ki Rasoi",
+"cloudinaryImageId": "22d76936a42e265be736b160b526b32e",
+"locality": "Vijay Nagar",
+"areaName": "Vijay Nagar",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"Thalis",
+"South Indian",
+"Chinese",
+"Fast Food",
+"Biryani",
+"North Indian",
+"Indian"
+],
+"avgRating": 4.2,
+"veg": true,
+"parentId": "596169",
+"avgRatingString": "4.2",
+"totalRatingsString": "23K+",
+"sla": {
+"deliveryTime": 32,
+"lastMileTravel": 5.8,
+"serviceability": "SERVICEABLE",
+"slaString": "30-35 mins",
+"lastMileTravelString": "5.8 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 05:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Thali.png",
+"description": "Delivery!"
+}
+]
+},
+"select": true,
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Thali.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹89"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "90"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/maa-ki-rasoi-vijay-nagar-rest224034",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "71814",
+"name": "Mocha",
+"cloudinaryImageId": "fd29061ac2e213aa223312ab50baefca",
+"locality": "YN Road",
+"areaName": "YN Road",
+"costForTwo": "₹800 for two",
+"cuisines": [
+"North Indian",
+"Chinese"
+],
+"avgRating": 3.9,
+"parentId": "5417",
+"avgRatingString": "3.9",
+"totalRatingsString": "120",
+"sla": {
+"deliveryTime": 35,
+"lastMileTravel": 2.4,
+"serviceability": "SERVICEABLE",
+"slaString": "30-35 mins",
+"lastMileTravelString": "2.4 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "66% OFF",
+"subHeader": "UPTO ₹126",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.1",
+"ratingCount": "3.9K+"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/mocha-yn-road-rest71814",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "625687",
+"name": "Wow! China",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/28/4a84f909-3369-4e43-ad45-f50e09cc2d46_625687.JPG",
+"locality": "Treasure Island Mall",
+"areaName": "Mg Road",
+"costForTwo": "₹300 for two",
+"cuisines": [
+"Chinese",
+"Asian",
+"fastfood",
+"Beverages",
+"Snacks"
+],
+"avgRating": 3.9,
+"parentId": "226836",
+"avgRatingString": "3.9",
+"totalRatingsString": "1.3K+",
+"sla": {
+"deliveryTime": 33,
+"lastMileTravel": 1.8,
+"serviceability": "SERVICEABLE",
+"slaString": "30-35 mins",
+"lastMileTravelString": "1.8 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:30:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "Rxawards/_CATEGORY-Chinese.png",
+"description": "Delivery!"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Delivery!",
+"imageId": "Rxawards/_CATEGORY-Chinese.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹166 OFF",
+"subHeader": "ABOVE ₹549",
+"discountTag": "FLAT DEAL",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/wow-china-treasure-island-mall-mg-road-rest625687",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "235825",
+"name": "Biryani By Kilo",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/4/ea27060a-ee89-4e59-b60d-d3500a4fbd98_235825.JPG",
+"locality": "Vijay Nagar",
+"areaName": "Vijay Nagar",
+"costForTwo": "₹499 for two",
+"cuisines": [
+"Biryani",
+"Hyderabadi",
+"North Indian",
+"Kebabs",
+"Mughlai",
+"Desserts"
+],
+"avgRating": 4.4,
+"parentId": "130",
+"avgRatingString": "4.4",
+"totalRatingsString": "6.7K+",
+"sla": {
+"deliveryTime": 33,
+"lastMileTravel": 5.6,
+"serviceability": "SERVICEABLE",
+"slaString": "30-35 mins",
+"lastMileTravelString": "5.6 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "66% OFF",
+"subHeader": "UPTO ₹126",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "3.6",
+"ratingCount": "442"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/biryani-by-kilo-vijay-nagar-rest235825",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "361411",
+"name": "Asia Seven - Sizzling Chinese",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/26/8e90f396-9e8a-4290-885a-0d2a88423684_361411.jpg",
+"locality": "South Tukoganj",
+"areaName": "South Tukoganj",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Chinese",
+"Asian",
+"Pan-Asian",
+"Thai"
+],
+"avgRating": 4.2,
+"parentId": "3521",
+"avgRatingString": "4.2",
+"totalRatingsString": "1.6K+",
+"sla": {
+"deliveryTime": 28,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"slaString": "25-30 mins",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "ITEMS",
+"subHeader": "AT ₹59"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "156"
+},
+"source": "GOOGLE",
+"sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/asia-seven-sizzling-chinese-south-tukoganj-rest361411",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "420556",
+"name": "McDonald's Gourmet Burger Collection",
+"cloudinaryImageId": "uqjhcsgstxwwzsvrqojp",
+"locality": "M G Road",
+"areaName": "Tukoganj",
+"costForTwo": "₹500 for two",
+"cuisines": [
+"Burgers",
+"Beverages",
+"Cafe",
+"Desserts"
+],
+"avgRating": 4.2,
+"parentId": "10761",
+"avgRatingString": "4.2",
+"totalRatingsString": "110",
+"sla": {
+"deliveryTime": 16,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"slaString": "15-20 mins",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:59:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+}
+]
+},
+"isOpen": true,
+"aggregatedDiscountInfoV2": {},
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/mcdonalds-gourmet-burger-collection-m-g-road-tukoganj-rest420556",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "861612",
+"name": "Pastas By Pizza Hut",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/3065f36b-6cfa-4940-8efa-ec0adfe970d3_861612.JPG",
+"locality": "Treasure Island Mall",
+"areaName": "South Tukoganj",
+"costForTwo": "₹400 for two",
+"cuisines": [
+"Pastas"
+],
+"avgRating": 3.6,
+"parentId": "306806",
+"avgRatingString": "3.6",
+"totalRatingsString": "14",
+"sla": {
+"deliveryTime": 21,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-14 00:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "20% OFF",
+"subHeader": "UPTO ₹40"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/pastas-by-pizza-hut-treasure-island-mall-south-tukoganj-rest861612",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "371013",
+"name": "Gourmet Ice Cream Cakes by Baskin Robbins",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/651f67d4-a76a-4563-a72b-adf11bee15ca_371013.JPG",
+"locality": "The One RNT Marg",
+"areaName": "South Tukoganj",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"Ice Cream Cakes",
+"Desserts",
+"Ice Cream",
+"Bakery"
+],
+"avgRating": 4.5,
+"veg": true,
+"parentId": "21932",
+"avgRatingString": "4.5",
+"totalRatingsString": "9",
+"sla": {
+"deliveryTime": 21,
+"lastMileTravel": 1.5,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "1.5 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "android/static-assets/icons/big_rx.png",
+"description": "bolt!"
+},
+{
+"imageId": "newg.png",
+"description": "Gourmet"
+},
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "bolt!",
+"imageId": "android/static-assets/icons/big_rx.png"
+}
+},
+{
+"attributes": {
+"description": "Gourmet",
+"imageId": "newg.png"
+}
+},
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹66 OFF",
+"subHeader": "ABOVE ₹499",
+"discountTag": "FLAT DEAL",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/gourmet-ice-cream-cakes-by-baskin-robbins-the-one-rnt-marg-south-tukoganj-rest371013",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "565251",
+"name": "Baskin Robbins Happyness Shakes",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/12/3de00890-8e0d-419f-b716-aa10bded327d_565251.jpg",
+"locality": "Treasure Island Mall",
+"areaName": "Mg Road",
+"costForTwo": "₹250 for two",
+"cuisines": [
+"Beverages",
+"Desserts"
+],
+"avgRating": 4.7,
+"veg": true,
+"parentId": "322848",
+"avgRatingString": "4.7",
+"totalRatingsString": "7",
+"sla": {
+"deliveryTime": 22,
+"lastMileTravel": 1.6,
+"serviceability": "SERVICEABLE",
+"slaString": "20-25 mins",
+"lastMileTravelString": "1.6 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2025-09-13 23:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹66 OFF",
+"subHeader": "ABOVE ₹499",
+"discountTag": "FLAT DEAL",
+"headerTypeV2": 12
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {},
+"externalRatings": {
+"aggregatedRating": {
+"rating": "--"
+}
+},
+"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+},
+"analytics": {
+"context": "seo-data-8183e1b4-bf72-499e-b040-1dd862a88a07"
+},
+"cta": {
+"link": "https://www.swiggy.com/city/indore/baskin-robbins-happyness-shakes-treasure-island-mall-mg-road-rest565251",
+"type": "WEBLINK"
+}
+}
+]
+
